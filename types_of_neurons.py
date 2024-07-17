@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""type_of_neurons.ipynb
+"""type_of_neurons.py
 
 Author: Mayank Kunwar
 Find Me: https://in.linkedin.com/in/mayankkunwar93
