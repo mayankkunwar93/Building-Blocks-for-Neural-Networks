@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""loss_functions.py
+"""custom_optimizers.py
 
 Author: Mayank Kunwar
 Find Me: https://in.linkedin.com/in/mayankkunwar93
